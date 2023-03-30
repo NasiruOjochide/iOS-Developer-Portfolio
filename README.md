@@ -143,3 +143,30 @@ This app holds a record of all the Apollo missions embarked on by NASA, as well 
 ## Techniques Used
 - SwiftUI
   - JSONDecoding and Encoding
+
+
+# Summary
+
+Skills that I'm Proficient in include but not limited to:
+- SwiftUI
+- CoreData
+- CoreImage
+- CreateML
+- JSONEncoding and Decoding
+- using Environment objects
+- using Environment values
+- Making Obsrvable Objects conform to codable
+- Making CoreData Models Conform to codable
+- REST API - Making Network requests with URLSession
+- Running Code on MainActor
+- Mapkit
+- CoreLocation
+- UIKit
+- PHotosUI
+- LocalNotification
+- LocalAuthentication
+- Network
+- Accessibility
+- User Defaults / App Storage
+- File Manager / documents directory
+- Git etc.
