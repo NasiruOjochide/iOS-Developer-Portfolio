@@ -20,6 +20,7 @@ The User can search through a list of resorts to get a particular one, they can 
   - Environment Values
 
 
+
 # [Hot Prospects](https://github.com/NasiruOjochide/HotProspectsApp)
 
 This app was designed to act as a sort of reminder to contact people you meet at events but might forget to contact. Users can scan QRCode of other users and they would automatically get the name of the other user. Consequently, at a user's leisure time, they can open the app, see all the folks whose QRCode they scanned, they go ahead to contact them. A user can also mark a friend as contacted or not.
@@ -45,9 +46,7 @@ CoreImage was used to generate the QRCode. I downloaded a package into my projec
 
 This is a practice app for swiftUI features such as alignment guides, absolute positioning using Position() and relative positioning using offset, and using GeometryReader to get the size and frame of views.
 
-https://user-images.githubusercontent.com/129331000/228773318-fddad5ef-3a66-4988-a479-23eda5069082.mov
-
-https://user-images.githubusercontent.com/129331000/228773478-833785b9-2756-464f-aba2-bf3d47c04f43.mov
+<img width="300" alt="Screenshot 2023-03-30 at 09 08 52" src="https://user-images.githubusercontent.com/129331000/228904451-79565650-5c7c-477d-8243-9fd72bf484d4.png">
 
 ## Techniques Used
 
