@@ -12,9 +12,9 @@ The User can search through a list of resorts to get a particular one, they can 
 <img width="300" alt="Screenshot 2023-03-30 at 07 51 07" src="https://user-images.githubusercontent.com/129331000/228753366-b0282726-7f55-4b57-97c1-eee95a42b9d0.png">
 <img width="300" alt="Screenshot 2023-03-30 at 07 50 56" src="https://user-images.githubusercontent.com/129331000/228753372-c9213c72-7f5d-477c-b052-89a1db724d12.png">
 
-##Techniques Used
--SwiftUI
-  -JSON Decoder and Encoder
-  -Reading file from Bundle
-  -User Defaults
-  -Environment Values
+## Techniques Used
+- SwiftUI
+  - JSON Decoder and Encoder
+  * Reading file from Bundle
+  + User Defaults
+  - Environment Values
