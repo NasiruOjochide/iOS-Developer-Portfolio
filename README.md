@@ -33,8 +33,29 @@ CoreImage was used to generate the QRCode. I downloaded a package into my projec
 
 ## Techniques Used
 - SwiftUI
+  - Confirmation dialogs, tab Views, Lists, EnvironmentObjects.
 - Local Notifications
 - Core Image
 - UIImageWriteToSavedPhotosAlbum()
 - Save files to document directory
-- Confirmation dialogs, tab Views, Lists, EnvironmentObjects.
+
+
+
+# [Layout and Geomety](https://github.com/NasiruOjochide/Layout-and-Geometry)
+
+This is a practice app for swiftUI features such as alignment guides, absolute positioning using Position() and relative positioning using offset, and using GeometryReader to get the size and frame of views.
+
+
+
+https://user-images.githubusercontent.com/129331000/228773318-fddad5ef-3a66-4988-a479-23eda5069082.mov
+
+
+
+https://user-images.githubusercontent.com/129331000/228773478-833785b9-2756-464f-aba2-bf3d47c04f43.mov
+
+## Techniques Used
+
+- SwiftUI
+  - GeometryReader
+  - Custom AlignmentGuide
+  - position and offset
