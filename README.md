@@ -130,7 +130,7 @@ This app provides a platform for users to order cupcakes. They can select the fl
 
 # [Moonshot](https://github.com/NasiruOjochide/Moonshot)
 
-This app holds a record of all the Apollo missions embarked on by NASA, as well as details of said missions. I read form my app's bundle the json files that contains details of the missions and the astronauts and decode them into Mission and Astronaut structs.
+This app holds a record of all the Apollo missions embarked on by NASA, as well as details of said missions. I read from my app's bundle the json files that contains details of the missions and the astronauts and decode them into Mission and Astronaut structs.
 
 <span><img width="300" alt="Screenshot 2023-03-30 at 15 08 28" src="https://user-images.githubusercontent.com/129331000/228864429-b403223a-de6a-4beb-9d36-a32fea1606be.png">
 <img width="300" alt="Screenshot 2023-03-30 at 15 08 22" src="https://user-images.githubusercontent.com/129331000/228864463-b8b93f88-798a-4e61-b333-ebed3a7d300a.png">
