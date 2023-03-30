@@ -18,3 +18,23 @@ The User can search through a list of resorts to get a particular one, they can 
   * Reading file from Bundle
   + User Defaults
   - Environment Values
+
+
+# [Hot Prospects](https://github.com/NasiruOjochide/HotProspectsApp)
+
+This app was designed to act as a sort of reminder to contact people you meet at events but might forget to contact. Users can scan QRCode of other users and they would automatically get the name of the other user. Consequently, at a user's leisure time, they can open the app, see all the folks whose QRCode they scanned, they go ahead to contact them. A user can also mark a friend as contacted or not.
+CoreImage was used to generate the QRCode. I downloaded a package into my project that handled the scanning of QRCodes. In the instance where camera isn't available UIKit PHPhotoPicker is used to select an image from photo library. Custom Swipe Actions are also attached to list rows to mark user as contacted or not, as well as send notifications to remind user to contact friend.
+
+<span><img width="300" alt="Screenshot 2023-03-30 at 08 56 04" src="https://user-images.githubusercontent.com/129331000/228769140-49d321e7-c64e-467f-856f-583414600345.png">
+<img width="300" alt="Screenshot 2023-03-30 at 08 55 51" src="https://user-images.githubusercontent.com/129331000/228769225-b99734ca-bfed-465e-ac9b-384f67642f32.png">
+<img width="300" alt="Screenshot 2023-03-30 at 08 40 00" src="https://user-images.githubusercontent.com/129331000/228769242-a6a3a016-13cc-4b7c-b957-04bb6cd9f76c.png">
+<img width="300" alt="Screenshot 2023-03-30 at 08 39 10" src="https://user-images.githubusercontent.com/129331000/228769271-0631e78c-394c-452a-be4e-5f911c83cb13.png">
+<img width="300" alt="Screenshot 2023-03-30 at 08 39 02" src="https://user-images.githubusercontent.com/129331000/228769297-3847ba9e-ffd6-4424-aa0d-14668dedcccf.png"></span>
+
+## Techniques Used
+- SwiftUI
+- Local Notifications
+- Core Image
+- UIImageWriteToSavedPhotosAlbum()
+- Save files to document directory
+- Confirmation dialogs, tab Views, Lists, EnvironmentObjects.
