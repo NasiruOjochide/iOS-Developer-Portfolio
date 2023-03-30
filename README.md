@@ -45,11 +45,7 @@ CoreImage was used to generate the QRCode. I downloaded a package into my projec
 
 This is a practice app for swiftUI features such as alignment guides, absolute positioning using Position() and relative positioning using offset, and using GeometryReader to get the size and frame of views.
 
-
-
 https://user-images.githubusercontent.com/129331000/228773318-fddad5ef-3a66-4988-a479-23eda5069082.mov
-
-
 
 https://user-images.githubusercontent.com/129331000/228773478-833785b9-2756-464f-aba2-bf3d47c04f43.mov
 
@@ -59,3 +55,45 @@ https://user-images.githubusercontent.com/129331000/228773478-833785b9-2756-464f
   - GeometryReader
   - Custom AlignmentGuide
   - position and offset
+
+
+# [Image Gallery](https://github.com/NasiruOjochide/ImageGalleryChallenge)
+
+Image Gallery is an app that is able to track a user's location. Whenever a user selects an image from their gallery, the app saves their location at the point that action was carried out. The user's location is then displayed on a map when the image is clicked.
+
+<img width="300" alt="Screenshot 2023-03-30 at 12 38 21" src="https://user-images.githubusercontent.com/129331000/228829495-cc8fc7ef-5d6c-498c-bdf4-849a6a3283f8.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 38 02" src="https://user-images.githubusercontent.com/129331000/228829512-5ebaf5f1-3b99-4fbc-b5a4-ef40149090f9.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 37 53" src="https://user-images.githubusercontent.com/129331000/228829537-04130c26-f0be-41a0-8312-b7cc4b7067b5.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 36 51" src="https://user-images.githubusercontent.com/129331000/228829562-afd4e6b3-3b4e-4204-9f56-c2c223f9a17c.png">
+
+
+## Techniques Used
+
+- SwiftUI
+  - save to documents directory
+- PhotosUI
+- UIKit
+  - PHPickerViewController
+- Mapkit
+- CoreLocation
+
+
+# [InstaFilter](https://github.com/NasiruOjochide/InstaFilter)
+
+InstaFilter is an app that allows users to select an image from their photo library, apply filters to it and save edited image back to photo library.
+Users can select from a range a filters available. Also The App requires user to authenticate using biometrics before they can access the app.
+
+<img width="300" alt="Screenshot 2023-03-30 at 12 58 16" src="https://user-images.githubusercontent.com/129331000/228829152-542a5658-e3f9-4274-8178-94200f9f8186.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 57 44" src="https://user-images.githubusercontent.com/129331000/228829180-09f5ae83-1b15-4d21-a17e-0887fb2bb6e1.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 58 37" src="https://user-images.githubusercontent.com/129331000/228829213-020bf93a-df6b-4705-8c90-25c4667dfc41.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 58 25" src="https://user-images.githubusercontent.com/129331000/228829240-898ed53a-0e60-4ecc-86a6-a4164db6f82e.png">
+
+
+## Techniques Used
+
+- SwiftUI
+- CoreImage
+  - CoreImage.CIFilterBuiltins
+- LocalAuthentication
+- UIKit
+- PhotosUI
