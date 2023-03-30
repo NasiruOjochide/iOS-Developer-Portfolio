@@ -113,3 +113,33 @@ Bookworm is an app the allows users to provide information of books they've read
 - CoreData
 
 
+# [CupCake Corner](https://github.com/NasiruOjochide/CupcakeApp)
+
+This app provides a platform for users to order cupcakes. They can select the flavour, how many cup cakes, and if they have special requests. They then go on to provide their delivery details. This form has validation and users cannot proceed until all fields are populated. Finally users go ahead to make their order by making a network request to an API. If a Users internet connection is out, an alert is displayed to the user.
+
+<img width="300" alt="Screenshot 2023-03-30 at 14 52 01" src="https://user-images.githubusercontent.com/129331000/228859875-45e31428-a981-4397-88d7-62cb53aba595.png">
+<img width="300" alt="Screenshot 2023-03-30 at 14 47 19" src="https://user-images.githubusercontent.com/129331000/228859910-bfc0c9c1-5eaa-4970-98fc-95d9bdc1e2f5.png">
+<img width="300" alt="Screenshot 2023-03-30 at 14 46 59" src="https://user-images.githubusercontent.com/129331000/228859920-762b9ce7-f237-4958-b30d-2a202f47b198.png">
+<img width="300" alt="Screenshot 2023-03-30 at 14 46 07" src="https://user-images.githubusercontent.com/129331000/228859926-f9687d3e-d419-43aa-91a3-3f3d3acc6e52.png">
+
+## Techniques Used
+- SwiftUI
+  - URLSession
+  - Observable object conformance to codable
+- Network (for internet connection check)
+
+
+# [Moonshot](https://github.com/NasiruOjochide/Moonshot)
+
+This app holds a record of all the Apollo missions embarked on by NASA, as well as details of said missions. I read form my app's bundle the json files that contains details of the missions and the astronauts and decode them into Mission and Astronaut structs.
+
+<img width="300" alt="Screenshot 2023-03-30 at 15 08 28" src="https://user-images.githubusercontent.com/129331000/228864429-b403223a-de6a-4beb-9d36-a32fea1606be.png">
+<img width="300" alt="Screenshot 2023-03-30 at 15 08 22" src="https://user-images.githubusercontent.com/129331000/228864463-b8b93f88-798a-4e61-b333-ebed3a7d300a.png">
+<img width="300" alt="Screenshot 2023-03-30 at 15 08 09" src="https://user-images.githubusercontent.com/129331000/228864485-13b9a832-31bd-4b63-a334-d82600f86431.png">
+<img width="300" alt="Screenshot 2023-03-30 at 15 08 01" src="https://user-images.githubusercontent.com/129331000/228864513-58e1b9aa-f7f0-49ea-93b8-3bfb72dc0b05.png">
+<img width="300" alt="Screenshot 2023-03-30 at 15 07 50" src="https://user-images.githubusercontent.com/129331000/228864526-8ab1ec55-5ea3-43e0-a3a7-5050031b206e.png">
+
+
+## Techniques Used
+- SwiftUI
+  - JSONDecoding and Encoding
