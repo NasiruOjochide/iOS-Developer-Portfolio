@@ -149,12 +149,13 @@ This app holds a record of all the Apollo missions embarked on by NASA, as well 
 Skills that I'm Proficient in include but not limited to:
 - SwiftUI
 - CoreData
+- Firebase
 - CoreImage
 - CreateML
 - JSONEncoding and Decoding
 - using Environment objects
 - using Environment values
-- Making Obsrvable Objects conform to codable
+- Making Observable Objects conform to codable
 - Making CoreData Models Conform to codable
 - REST API - Making Network requests with URLSession
 - Running Code on MainActor
