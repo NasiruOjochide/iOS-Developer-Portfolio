@@ -144,6 +144,22 @@ This app holds a record of all the Apollo missions embarked on by NASA, as well 
   - JSONDecoding and Encoding
 
 
+# [Expense Ledger](https://github.com/NasiruOjochide/ExpensesLedger)
+
+This is an app in which a user can save records of all their expenses. When a user buys something in real life, they can use the app to save what was bought, the expense title, a description of the expense, date of transaction and amount spent on expense. Also the user can set a monthly budget to keep track of their expenses. 
+Firebase Authentication and Firebase firestore was integrated in the app so users can have their records protected and access their records from any device. Users can also reset / change their passwords.
+
+
+
+## Tecniques Used
+- SwiftUI
+  - File Manager
+  - iOS 16 Navigation Stack(Path)
+- Firebase
+  - Firebase Authentication
+  - Firebase Firestore
+
+
 # Summary
 
 Skills that I'm Proficient in include but not limited to:
