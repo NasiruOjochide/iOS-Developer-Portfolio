@@ -12,6 +12,7 @@ Hi, My name is Nasiru Danjuma, an iOS developer. This repository holds a brief i
 - Combine
 - Swift Concurrency
 - REST API - Making Network requests with URLSession
+- unit Testing
 - Firebase
 - Swift package manager
 - Git
