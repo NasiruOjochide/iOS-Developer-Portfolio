@@ -37,7 +37,6 @@ Firebase Authentication and Firebase firestore was integrated in the app so user
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 01" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/d45a85f5-4b71-4cc0-bdac-7f0d9c0a2387">
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 18" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/5aa8dff7-a571-458c-9061-7cc974df90be">
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 34" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/18df0680-9c75-4055-8a38-3f9fc26a4ae5">
-<img width="300" alt="Screenshot 2023-05-25 at 16 35 20" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/c9e7caa1-a6cb-4896-b496-d37ddc2a126b"></span>
 
 
 ## Tecniques Used
