@@ -1,23 +1,75 @@
 # iOS-Developer-Portfolio
 
 
-Hi, My name is Nasiru Danjuma, an iOS developer from Nigeria. This repository holds a brief insight into the projects I've worked on as well as links to said projects.
+Hi, My name is Nasiru Danjuma, an iOS developer. This repository holds a brief insight into the projects I've worked on, the skills utilized and frameworks used, as well as links to said projects.
 
-# [SnowSeeker](https://github.com/NasiruOjochide/SnowSneeker)
+# Skills/Frameworks that I'm Proficient in include but not limited to:
+- UIKit
+- SwiftUI
+- Integrating swiftUI and UIKit
+- MVVM Architecture
+- CoreData
+- Combine
+- Swift Concurrency
+- REST API - Making Network requests with URLSession
+- Firebase
+- Swift package manager
+- Git
+- CoreImage
+- CreateML
+- Mapkit
+- CoreLocation
+- PHotosUI
+- Local Notification / Push Notifications
+- LocalAuthentication
+- Network
+- Accessibility etc.
 
-SnowSeeker is an App designed to provide information about ski resorts around the world. It holds information about each resort such as its size, price, elevation and snow. I also provide the facilities available at each resort.
-The User can search through a list of resorts to get a particular one, they can sort the list in order of name or country. Upon selecting a resort, they get to see descriptive information about the resort and can also set it as a favourite. I also use SizeClass and dynamicTypeSize to make the app responsive and perfectly scaled on various devices including an iPad. Click on link above to check out code.
+# Projects
 
-<span><img width="300" alt="Screenshot 2023-03-30 at 07 51 52" src="https://user-images.githubusercontent.com/129331000/228753351-53d1705c-7803-4550-ae24-d6686be62965.png">
-<img width="300" alt="Screenshot 2023-03-30 at 07 51 07" src="https://user-images.githubusercontent.com/129331000/228753366-b0282726-7f55-4b57-97c1-eee95a42b9d0.png">
-<img width="300" alt="Screenshot 2023-03-30 at 07 50 56" src="https://user-images.githubusercontent.com/129331000/228753372-c9213c72-7f5d-477c-b052-89a1db724d12.png"></span>
+# [Expense Ledger](https://github.com/NasiruOjochide/ExpensesLedger)
+
+This is an app in which a user can save records of all their expenses. When a user buys something in real life, they can use the app to save what was bought, the expense title, a description of the expense, date of transaction and amount spent on expense. Also the user can set a monthly budget to keep track of their expenses. 
+Firebase Authentication and Firebase firestore was integrated in the app so users can have their records protected and access their records from any device. Users can also reset / change their passwords.
+
+<span><img width="300" alt="Screenshot 2023-05-25 at 16 33 31" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/f85c2cd4-9ee3-40ba-bf60-e929e3f4198e">
+<img width="300" alt="Screenshot 2023-05-25 at 16 33 43" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/869f212b-7421-4bf7-ae61-0a124147c71e">
+<img width="300" alt="Screenshot 2023-05-25 at 16 34 01" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/d45a85f5-4b71-4cc0-bdac-7f0d9c0a2387">
+<img width="300" alt="Screenshot 2023-05-25 at 16 34 18" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/5aa8dff7-a571-458c-9061-7cc974df90be">
+<img width="300" alt="Screenshot 2023-05-25 at 16 34 34" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/18df0680-9c75-4055-8a38-3f9fc26a4ae5">
+<img width="300" alt="Screenshot 2023-05-25 at 16 35 20" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/c9e7caa1-a6cb-4896-b496-d37ddc2a126b"></span>
+
+
+## Tecniques Used
+- SwiftUI
+  - File Manager
+  - iOS 16 Navigation Stack(Path)
+- Firebase
+  - Firebase Authentication
+  - Firebase Firestore
+- MVVM Architecture
+ 
+
+
+# [InstaFilter](https://github.com/NasiruOjochide/InstaFilter)
+
+InstaFilter is an app that allows users to select an image from their photo library, apply filters to it and save edited image back to photo library.
+Users can select from a range a filters available. Also The App requires user to authenticate using biometrics before they can access the app.
+
+<span><img width="300" alt="Screenshot 2023-03-30 at 12 58 16" src="https://user-images.githubusercontent.com/129331000/228829152-542a5658-e3f9-4274-8178-94200f9f8186.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 57 44" src="https://user-images.githubusercontent.com/129331000/228829180-09f5ae83-1b15-4d21-a17e-0887fb2bb6e1.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 58 37" src="https://user-images.githubusercontent.com/129331000/228829213-020bf93a-df6b-4705-8c90-25c4667dfc41.png">
+<img width="300" alt="Screenshot 2023-03-30 at 12 58 25" src="https://user-images.githubusercontent.com/129331000/228829240-898ed53a-0e60-4ecc-86a6-a4164db6f82e.png"></span>
+
 
 ## Techniques Used
+
 - SwiftUI
-  - JSON Decoder and Encoder
-  * Reading file from Bundle
-  + User Defaults
-  - Environment Values
+- CoreImage
+  - CoreImage.CIFilterBuiltins
+- LocalAuthentication
+- UIKit
+- PhotosUI
 
 
 
@@ -42,6 +94,24 @@ CoreImage was used to generate the QRCode. I downloaded a package into my projec
 
 
 
+# [SnowSeeker](https://github.com/NasiruOjochide/SnowSneeker)
+
+SnowSeeker is an App designed to provide information about ski resorts around the world. It holds information about each resort such as its size, price, elevation and snow. I also provide the facilities available at each resort.
+The User can search through a list of resorts to get a particular one, they can sort the list in order of name or country. Upon selecting a resort, they get to see descriptive information about the resort and can also set it as a favourite. I also use SizeClass and dynamicTypeSize to make the app responsive and perfectly scaled on various devices including an iPad. Click on link above to check out code.
+
+<span><img width="300" alt="Screenshot 2023-03-30 at 07 51 52" src="https://user-images.githubusercontent.com/129331000/228753351-53d1705c-7803-4550-ae24-d6686be62965.png">
+<img width="300" alt="Screenshot 2023-03-30 at 07 51 07" src="https://user-images.githubusercontent.com/129331000/228753366-b0282726-7f55-4b57-97c1-eee95a42b9d0.png">
+<img width="300" alt="Screenshot 2023-03-30 at 07 50 56" src="https://user-images.githubusercontent.com/129331000/228753372-c9213c72-7f5d-477c-b052-89a1db724d12.png"></span>
+
+## Techniques Used
+- SwiftUI
+  - JSON Decoder and Encoder
+  * Reading file from Bundle
+  + User Defaults
+  - Environment Values
+
+
+
 # [Layout and Geomety](https://github.com/NasiruOjochide/Layout-and-Geometry)
 
 This is a practice app for swiftUI features such as alignment guides, absolute positioning using Position() and relative positioning using offset, and using GeometryReader to get the size and frame of views.
@@ -54,6 +124,7 @@ This is a practice app for swiftUI features such as alignment guides, absolute p
   - GeometryReader
   - Custom AlignmentGuide
   - position and offset
+
 
 
 # [Image Gallery](https://github.com/NasiruOjochide/ImageGalleryChallenge)
@@ -76,26 +147,6 @@ Image Gallery is an app that is able to track a user's location. Whenever a user
 - Mapkit
 - CoreLocation
 
-
-# [InstaFilter](https://github.com/NasiruOjochide/InstaFilter)
-
-InstaFilter is an app that allows users to select an image from their photo library, apply filters to it and save edited image back to photo library.
-Users can select from a range a filters available. Also The App requires user to authenticate using biometrics before they can access the app.
-
-<span><img width="300" alt="Screenshot 2023-03-30 at 12 58 16" src="https://user-images.githubusercontent.com/129331000/228829152-542a5658-e3f9-4274-8178-94200f9f8186.png">
-<img width="300" alt="Screenshot 2023-03-30 at 12 57 44" src="https://user-images.githubusercontent.com/129331000/228829180-09f5ae83-1b15-4d21-a17e-0887fb2bb6e1.png">
-<img width="300" alt="Screenshot 2023-03-30 at 12 58 37" src="https://user-images.githubusercontent.com/129331000/228829213-020bf93a-df6b-4705-8c90-25c4667dfc41.png">
-<img width="300" alt="Screenshot 2023-03-30 at 12 58 25" src="https://user-images.githubusercontent.com/129331000/228829240-898ed53a-0e60-4ecc-86a6-a4164db6f82e.png"></span>
-
-
-## Techniques Used
-
-- SwiftUI
-- CoreImage
-  - CoreImage.CIFilterBuiltins
-- LocalAuthentication
-- UIKit
-- PhotosUI
 
 
 # [Bookworm](https://github.com/NasiruOjochide/BookWorm)
@@ -143,54 +194,5 @@ This app holds a record of all the Apollo missions embarked on by NASA, as well 
 - SwiftUI
   - JSONDecoding and Encoding
 
-
-# [Expense Ledger](https://github.com/NasiruOjochide/ExpensesLedger)
-
-This is an app in which a user can save records of all their expenses. When a user buys something in real life, they can use the app to save what was bought, the expense title, a description of the expense, date of transaction and amount spent on expense. Also the user can set a monthly budget to keep track of their expenses. 
-Firebase Authentication and Firebase firestore was integrated in the app so users can have their records protected and access their records from any device. Users can also reset / change their passwords.
-
-<span><img width="300" alt="Screenshot 2023-05-25 at 16 33 31" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/f85c2cd4-9ee3-40ba-bf60-e929e3f4198e">
-<img width="300" alt="Screenshot 2023-05-25 at 16 33 43" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/869f212b-7421-4bf7-ae61-0a124147c71e">
-<img width="300" alt="Screenshot 2023-05-25 at 16 34 01" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/d45a85f5-4b71-4cc0-bdac-7f0d9c0a2387">
-<img width="300" alt="Screenshot 2023-05-25 at 16 34 18" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/5aa8dff7-a571-458c-9061-7cc974df90be">
-<img width="300" alt="Screenshot 2023-05-25 at 16 34 34" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/18df0680-9c75-4055-8a38-3f9fc26a4ae5">
-<img width="300" alt="Screenshot 2023-05-25 at 16 35 20" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/c9e7caa1-a6cb-4896-b496-d37ddc2a126b"></span>
-
-
-## Tecniques Used
-- SwiftUI
-  - File Manager
-  - iOS 16 Navigation Stack(Path)
-- Firebase
-  - Firebase Authentication
-  - Firebase Firestore
-
-
-# Summary
-
-Skills that I'm Proficient in include but not limited to:
-- SwiftUI
-- CoreData
-- Firebase
-- CoreImage
-- CreateML
-- JSONEncoding and Decoding
-- using Environment objects
-- using Environment values
-- Making Observable Objects conform to codable
-- Making CoreData Models Conform to codable
-- REST API - Making Network requests with URLSession
-- Running Code on MainActor
-- Mapkit
-- CoreLocation
-- UIKit
-- PHotosUI
-- LocalNotification
-- LocalAuthentication
-- Network
-- Accessibility
-- User Defaults / App Storage
-- File Manager / documents directory
-- Git etc.
 
 **Feel free to browse through all project repositories in this account...**
