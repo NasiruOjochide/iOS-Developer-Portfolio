@@ -2,30 +2,6 @@
 
 
 Hi, My name is Nasiru Danjuma, an iOS developer. This repository holds a brief insight into the projects I've worked on, the skills utilized and frameworks used, as well as links to said projects.
-
-# Skills/Frameworks that I'm Proficient in include but not limited to:
-- UIKit
-- SwiftUI
-- Integrating swiftUI and UIKit
-- MVVM Architecture
-- CoreData
-- Combine
-- Swift Concurrency
-- REST API - Making Network requests with URLSession
-- unit Testing
-- Firebase
-- Swift package manager
-- Git
-- CoreImage
-- CreateML
-- Mapkit
-- CoreLocation
-- PHotosUI
-- Local Notification / Push Notifications
-- LocalAuthentication
-- Network
-- Accessibility etc.
-
 # Projects
 
 # [Expense Ledger](https://github.com/NasiruOjochide/ExpensesLedger)
@@ -38,18 +14,7 @@ Firebase Authentication and Firebase firestore was integrated in the app so user
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 01" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/d45a85f5-4b71-4cc0-bdac-7f0d9c0a2387">
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 18" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/5aa8dff7-a571-458c-9061-7cc974df90be">
 <img width="300" alt="Screenshot 2023-05-25 at 16 34 34" src="https://github.com/NasiruOjochide/iOS-Developer-Portfolio/assets/129331000/18df0680-9c75-4055-8a38-3f9fc26a4ae5">
-
-
-## Tecniques Used
-- SwiftUI
-  - File Manager
-  - iOS 16 Navigation Stack(Path)
-- Firebase
-  - Firebase Authentication
-  - Firebase Firestore
-- MVVM Architecture
  
-
 
 # [InstaFilter](https://github.com/NasiruOjochide/InstaFilter)
 
@@ -60,17 +25,6 @@ Users can select from a range a filters available. Also The App requires user to
 <img width="300" alt="Screenshot 2023-03-30 at 12 57 44" src="https://user-images.githubusercontent.com/129331000/228829180-09f5ae83-1b15-4d21-a17e-0887fb2bb6e1.png">
 <img width="300" alt="Screenshot 2023-03-30 at 12 58 37" src="https://user-images.githubusercontent.com/129331000/228829213-020bf93a-df6b-4705-8c90-25c4667dfc41.png">
 <img width="300" alt="Screenshot 2023-03-30 at 12 58 25" src="https://user-images.githubusercontent.com/129331000/228829240-898ed53a-0e60-4ecc-86a6-a4164db6f82e.png"></span>
-
-
-## Techniques Used
-
-- SwiftUI
-- CoreImage
-  - CoreImage.CIFilterBuiltins
-- LocalAuthentication
-- UIKit
-- PhotosUI
-
 
 
 # [Hot Prospects](https://github.com/NasiruOjochide/HotProspectsApp)
@@ -84,15 +38,6 @@ CoreImage was used to generate the QRCode. I downloaded a package into my projec
 <img width="300" alt="Screenshot 2023-03-30 at 08 39 10" src="https://user-images.githubusercontent.com/129331000/228769271-0631e78c-394c-452a-be4e-5f911c83cb13.png">
 <img width="300" alt="Screenshot 2023-03-30 at 08 39 02" src="https://user-images.githubusercontent.com/129331000/228769297-3847ba9e-ffd6-4424-aa0d-14668dedcccf.png"></span>
 
-## Techniques Used
-- SwiftUI
-  - Confirmation dialogs, tab Views, Lists, EnvironmentObjects.
-- Local Notifications
-- Core Image
-- UIImageWriteToSavedPhotosAlbum()
-- Save files to document directory
-
-
 
 # [SnowSeeker](https://github.com/NasiruOjochide/SnowSneeker)
 
@@ -103,28 +48,12 @@ The User can search through a list of resorts to get a particular one, they can 
 <img width="300" alt="Screenshot 2023-03-30 at 07 51 07" src="https://user-images.githubusercontent.com/129331000/228753366-b0282726-7f55-4b57-97c1-eee95a42b9d0.png">
 <img width="300" alt="Screenshot 2023-03-30 at 07 50 56" src="https://user-images.githubusercontent.com/129331000/228753372-c9213c72-7f5d-477c-b052-89a1db724d12.png"></span>
 
-## Techniques Used
-- SwiftUI
-  - JSON Decoder and Encoder
-  * Reading file from Bundle
-  + User Defaults
-  - Environment Values
-
-
 
 # [Layout and Geomety](https://github.com/NasiruOjochide/Layout-and-Geometry)
 
 This is a practice app for swiftUI features such as alignment guides, absolute positioning using Position() and relative positioning using offset, and using GeometryReader to get the size and frame of views.
 
 <img width="300" alt="Screenshot 2023-03-30 at 09 08 52" src="https://user-images.githubusercontent.com/129331000/228904451-79565650-5c7c-477d-8243-9fd72bf484d4.png">
-
-## Techniques Used
-
-- SwiftUI
-  - GeometryReader
-  - Custom AlignmentGuide
-  - position and offset
-
 
 
 # [Image Gallery](https://github.com/NasiruOjochide/ImageGalleryChallenge)
@@ -137,18 +66,6 @@ Image Gallery is an app that is able to track a user's location. Whenever a user
 <img width="300" alt="Screenshot 2023-03-30 at 12 36 51" src="https://user-images.githubusercontent.com/129331000/228829562-afd4e6b3-3b4e-4204-9f56-c2c223f9a17c.png"></span>
 
 
-## Techniques Used
-
-- SwiftUI
-  - save to documents directory
-- PhotosUI
-- UIKit
-  - PHPickerViewController
-- Mapkit
-- CoreLocation
-
-
-
 # [Bookworm](https://github.com/NasiruOjochide/BookWorm)
 
 Bookworm is an app the allows users to provide information of books they've read, such as the name, genre, author and rating. The app uses coreData to save all books that have been added by the user so they can always come back to see their books. Users can also delete books from their list of books by using swipe to delete or deleting from the book's detail page.
@@ -157,10 +74,6 @@ Bookworm is an app the allows users to provide information of books they've read
 <img width="300" alt="Screenshot 2023-03-30 at 13 39 28" src="https://user-images.githubusercontent.com/129331000/228839908-a18aed01-4fca-4f47-91bf-2d8f8431c893.png">
 <img width="300" alt="Screenshot 2023-03-30 at 13 39 18" src="https://user-images.githubusercontent.com/129331000/228839926-d0e49b05-1f03-4308-ac19-c8483506de85.png">
 <img width="300" alt="Screenshot 2023-03-30 at 13 39 10" src="https://user-images.githubusercontent.com/129331000/228839935-8e281ee2-04fd-49b5-a132-b461657543ca.png"></span>
-
-## Techniques Used
-- SwiftUI
-- CoreData
 
 
 # [CupCake Corner](https://github.com/NasiruOjochide/CupcakeApp)
@@ -172,12 +85,6 @@ This app provides a platform for users to order cupcakes. They can select the fl
 <img width="300" alt="Screenshot 2023-03-30 at 14 46 59" src="https://user-images.githubusercontent.com/129331000/228859920-762b9ce7-f237-4958-b30d-2a202f47b198.png">
 <img width="300" alt="Screenshot 2023-03-30 at 14 46 07" src="https://user-images.githubusercontent.com/129331000/228859926-f9687d3e-d419-43aa-91a3-3f3d3acc6e52.png"></span>
 
-## Techniques Used
-- SwiftUI
-  - URLSession
-  - Observable object conformance to codable
-- Network (for internet connection check)
-
 
 # [Moonshot](https://github.com/NasiruOjochide/Moonshot)
 
@@ -188,11 +95,3 @@ This app holds a record of all the Apollo missions embarked on by NASA, as well 
 <img width="300" alt="Screenshot 2023-03-30 at 15 08 09" src="https://user-images.githubusercontent.com/129331000/228864485-13b9a832-31bd-4b63-a334-d82600f86431.png">
 <img width="300" alt="Screenshot 2023-03-30 at 15 08 01" src="https://user-images.githubusercontent.com/129331000/228864513-58e1b9aa-f7f0-49ea-93b8-3bfb72dc0b05.png">
 <img width="300" alt="Screenshot 2023-03-30 at 15 07 50" src="https://user-images.githubusercontent.com/129331000/228864526-8ab1ec55-5ea3-43e0-a3a7-5050031b206e.png"></span>
-
-
-## Techniques Used
-- SwiftUI
-  - JSONDecoding and Encoding
-
-
-**Feel free to browse through all project repositories in this account...**
